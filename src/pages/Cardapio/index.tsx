@@ -4,7 +4,7 @@ export default function Cardapio() {
   return (
     <main>
       <nav className="menu">
-
+        <p>oi</p>
       </nav>
     </main>
   )
